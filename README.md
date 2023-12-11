@@ -1,2 +1,2 @@
 # microsite
-Cod a fotky jsou v folderu Profile.
+Cod a webu fotky jsou v folderu Profile.
